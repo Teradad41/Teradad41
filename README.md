@@ -1,17 +1,25 @@
-<!--
-**Teradad41/Teradad41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,php,go,rust" />
+  </a>
+</p>
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,vite,react,nextjs,laravel,actix" />
+  </a>
+</p>
+<p align=left>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,mysql,postgres,redis,supabase" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## Activity
+[![Likes](https://badgen.org/img/zenn/kterada/likes?style=flat)](https://zenn.dev/kterada)
+[![Followers](https://badgen.org/img/zenn/kterada/followers?style=flat)](https://zenn.dev/kterada)
+[![Contributions](https://badgen.org/img/qiita/Teradad41/contributions?style=flat)](https://qiita.com/Teradad41)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="170px" src="https://github-readme-stats-inky-rho-71.vercel.app" />
 </a>
